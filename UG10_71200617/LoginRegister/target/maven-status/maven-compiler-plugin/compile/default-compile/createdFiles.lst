@@ -1,0 +1,6 @@
+org\example\PasswordException.class
+org\example\App.class
+org\example\LoginException.class
+org\example\EmailException.class
+org\example\User.class
+org\example\UsernameException.class
